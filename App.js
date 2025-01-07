@@ -1,3 +1,4 @@
+sh react-scripts start
 import React from 'react';
 import './App.css';
 
