@@ -1,4 +1,4 @@
-sh react-scripts start
+sh react-scripts build
 import React from 'react';
 import './App.css';
 
