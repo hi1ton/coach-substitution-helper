@@ -1,12 +1,9 @@
-function Video({ video }) {
-  return (
-    <div>
-      <Thumbnail video={video} />
-      <a href={video.url}>
-        <h3>{video.title}</h3>
-        <p>{video.description}</p>
-      </a>
-      <LikeButton video={video} />
-    </div>
-  );
+import React from 'react';
+import './App.css';
+
+function App() {
+return (
+<h1> This is My React Application </h1>
+);
 }
+export default App;
